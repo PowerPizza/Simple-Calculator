@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="emoji_add">+</string>
+    <string name="emoji_subtract">–</string>
+    <string name="emoji_multiply">×</string>
+    <string name="emoji_divide">÷</string>
+    <string name="emoji_remainder">%</string>
+    <string name="emoji_pow2">xⁿ</string>
+    <string name="default_output_text">Output : </string>
+    <string name="emoji_under_root">√</string>
+    <string name="emoji_factorial">n!</string>
+    <string name="emoji_log_base_10">ˡᵒᵍ₁₀</string>
+    <string name="emoji_natural_log">ln</string>
+</resources>
